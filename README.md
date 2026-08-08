@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prince-307/Leetcode-Question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prince-307/Leetcode-Question/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Prince-307/Leetcode-Question/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Prince-307/Leetcode-Question/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Prince-307/Leetcode-Question/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Prince-307/Leetcode-Question/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Prince-307/Leetcode-Question/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0047-permutations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Prince-307/Leetcode-Question/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0047-permutations-ii) |
 ## Math
 |  |
 | ------- |
