@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Prince-307/Leetcode-Question/tree/master/0048-rotate-image) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Prince-307/Leetcode-Question/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
