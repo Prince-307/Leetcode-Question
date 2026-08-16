@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Prince-307/Leetcode-Question/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Prince-307/Leetcode-Question/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Prince-307/Leetcode-Question/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Prince-307/Leetcode-Question/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Prince-307/Leetcode-Question/tree/master/0054-spiral-matrix) |
 ## Database
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Prince-307/Leetcode-Question/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Prince-307/Leetcode-Question/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Prince-307/Leetcode-Question/tree/master/0596-classes-with-at-least-5-students) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Prince-307/Leetcode-Question/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
