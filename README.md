@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Prince-307/Leetcode-Question/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Prince-307/Leetcode-Question/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Prince-307/Leetcode-Question/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Prince-307/Leetcode-Question/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prince-307/Leetcode-Question/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Prince-307/Leetcode-Question/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prince-307/Leetcode-Question/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Prince-307/Leetcode-Question/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
