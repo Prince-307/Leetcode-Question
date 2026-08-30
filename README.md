@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Prince-307/Leetcode-Question/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prince-307/Leetcode-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Prince-307/Leetcode-Question/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prince-307/Leetcode-Question/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Prince-307/Leetcode-Question/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0047-permutations-ii) |
 ## Math
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Prince-307/Leetcode-Question/tree/master/0055-jump-game) |
 ## Linked List
 |  |
@@ -141,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
