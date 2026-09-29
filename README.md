@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Prince-307/Leetcode-Question/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Prince-307/Leetcode-Question/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0059-spiral-matrix-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Prince-307/Leetcode-Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Prince-307/Leetcode-Question/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Prince-307/Leetcode-Question/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0059-spiral-matrix-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Prince-307/Leetcode-Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Database
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/Prince-307/Leetcode-Question/tree/master/0055-jump-game) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Prince-307/Leetcode-Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Linked List
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0032-longest-valid-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Prince-307/Leetcode-Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String Matching
 |  |
 | ------- |
