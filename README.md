@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Prince-307/Leetcode-Question/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prince-307/Leetcode-Question/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prince-307/Leetcode-Question/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Prince-307/Leetcode-Question/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Prince-307/Leetcode-Question/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Prince-307/Leetcode-Question/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Prince-307/Leetcode-Question/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prince-307/Leetcode-Question/tree/master/0029-divide-two-integers) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Prince-307/Leetcode-Question/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sliding Window
 |  |
 | ------- |
