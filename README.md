@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Prince-307/Leetcode-Question/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Prince-307/Leetcode-Question/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Prince-307/Leetcode-Question/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Prince-307/Leetcode-Question/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Prince-307/Leetcode-Question/tree/master/0058-length-of-last-word) |
 | [0301-remove-invalid-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0301-remove-invalid-parentheses) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prince-307/Leetcode-Question/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Prince-307/Leetcode-Question/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Prince-307/Leetcode-Question/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Prince-307/Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prince-307/Leetcode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Prince-307/Leetcode-Question/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Prince-307/Leetcode-Question/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Prince-307/Leetcode-Question/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Prince-307/Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prince-307/Leetcode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Prince-307/Leetcode-Question/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Prince-307/Leetcode-Question/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Prince-307/Leetcode-Question/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Prince-307/Leetcode-Question/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Prince-307/Leetcode-Question/tree/master/0050-powx-n) |
 ## Heap (Priority Queue)
 |  |
