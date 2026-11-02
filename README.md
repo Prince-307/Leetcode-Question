@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Prince-307/Leetcode-Question/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Prince-307/Leetcode-Question/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0059-spiral-matrix-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Prince-307/Leetcode-Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Prince-307/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prince-307/Leetcode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Prince-307/Leetcode-Question/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Prince-307/Leetcode-Question/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Prince-307/Leetcode-Question/tree/master/0050-powx-n) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Prince-307/Leetcode-Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prince-307/Leetcode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Prince-307/Leetcode-Question/tree/master/2409-count-days-spent-together) |
