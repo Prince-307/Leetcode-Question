@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Prince-307/Leetcode-Question/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Prince-307/Leetcode-Question/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0059-spiral-matrix-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Prince-307/Leetcode-Question/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prince-307/Leetcode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prince-307/Leetcode-Question/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Prince-307/Leetcode-Question/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Prince-307/Leetcode-Question/tree/master/0049-group-anagrams) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Prince-307/Leetcode-Question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prince-307/Leetcode-Question/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Prince-307/Leetcode-Question/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Prince-307/Leetcode-Question/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Prince-307/Leetcode-Question/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Prince-307/Leetcode-Question/tree/master/0050-powx-n) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Prince-307/Leetcode-Question/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Prince-307/Leetcode-Question/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Prince-307/Leetcode-Question/tree/master/3723-maximize-sum-of-squares-of-digits) |
