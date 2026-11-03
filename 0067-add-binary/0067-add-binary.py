@@ -5,29 +5,6 @@ class Solution(object):
         :type b: str
         :rtype: str
         """
-        i = len(a) - 1
-        j = len(b) - 1
+        return bin(int(a, 2) + int(b, 2))[2:]
 
-        carry = 0
-        result = []
-
-        while i >= 0 or j >= 0 or carry:
-
-            total = carry
-
-            if i >= 0:
-                total += int(a[i])
-                i -= 1
-
-            if j >= 0:
-                total += int(b[j])
-                j -= 1
-
-            # Current binary digit
-            result.append(str(total % 2))
-
-            # Calculate carry
-            carry = total // 2
-
-        return ''.join(result[::-1])
             
