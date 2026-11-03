@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prince-307/Leetcode-Question/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince-307/Leetcode-Question/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2409-count-days-spent-together](https://github.com/Prince-307/Leetcode-Question/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Prince-307/Leetcode-Question/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Prince-307/Leetcode-Question/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Prince-307/Leetcode-Question/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prince-307/Leetcode-Question/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Prince-307/Leetcode-Question/tree/master/0031-next-permutation) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince-307/Leetcode-Question/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Prince-307/Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prince-307/Leetcode-Question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prince-307/Leetcode-Question/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince-307/Leetcode-Question/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Prince-307/Leetcode-Question/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Prince-307/Leetcode-Question/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Prince-307/Leetcode-Question/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prince-307/Leetcode-Question/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince-307/Leetcode-Question/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prince-307/Leetcode-Question/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Prince-307/Leetcode-Question/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Prince-307/Leetcode-Question/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## String Matching
 |  |
