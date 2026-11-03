@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Prince-307/Leetcode-Question/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Prince-307/Leetcode-Question/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Prince-307/Leetcode-Question/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Prince-307/Leetcode-Question/tree/master/0067-add-binary) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Prince-307/Leetcode-Question/tree/master/0678-valid-parenthesis-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Prince-307/Leetcode-Question/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Prince-307/Leetcode-Question/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Prince-307/Leetcode-Question/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Prince-307/Leetcode-Question/tree/master/0067-add-binary) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Prince-307/Leetcode-Question/tree/master/0241-different-ways-to-add-parentheses) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Prince-307/Leetcode-Question/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Prince-307/Leetcode-Question/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Prince-307/Leetcode-Question/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Prince-307/Leetcode-Question/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Prince-307/Leetcode-Question/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prince-307/Leetcode-Question/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Prince-307/Leetcode-Question/tree/master/0067-add-binary) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Prince-307/Leetcode-Question/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Prince-307/Leetcode-Question/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Prince-307/Leetcode-Question/tree/master/3882-minimum-xor-path-in-a-grid) |
